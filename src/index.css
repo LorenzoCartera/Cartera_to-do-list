@@ -1,0 +1,50 @@
+.lato-regular {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-slab {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+body {
+  font-family: 'Lato';
+  color: #212427;
+}
+
+.button1 {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.5em, 1em;
+  margin: 0.1em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: 'Lato';
+  color:#F8FFFE ;
+  background-color: #F4512C;
+  cursor: pointer;
+  transition: background-color 0.25s;
+  transition: box-shadow 0.25s;
+}
+
+.button1:hover {
+  color: #F8FFFE;
+  background-color: #FF7F4D;
+  border-color: transparent;
+  box-shadow: 0px 0px 10px 1px #9D71BC;
+}
+
+.button2:hover {
+  border-color: transparent;
+  box-shadow: 0px 0px 10px 1px #9D71BC;
+}
+
+.modalHeader{
+  background-color: #5E1B89;
+  color: #F8FFFE;
+}

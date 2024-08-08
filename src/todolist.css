@@ -1,0 +1,39 @@
+.card {
+    width:60%;
+    align-self: center;
+    border-color: #212427;
+    border-width: 1px;
+    padding: 1em;
+    margin-top: 10px;
+    box-shadow: 5px 5px 5px #a4a4a4;
+}
+
+.nameFalse {
+    color: #5E1B89;
+    font-size: 2.5em;
+    font-family: 'Roboto Slab';
+}
+
+.nameTrue {
+    color: #5E1B89;
+    font-size: 2.5em;
+    font-family: 'Roboto Slab';
+    text-decoration-line: line-through;
+}
+
+.p {
+    font-family: 'Lato';
+}
+
+.ago {
+    color:slategray;
+}
+
+.container{
+    width: 100vw;
+    align-content: center;
+}
+
+.buttonContainer{
+    align-content: center;
+}

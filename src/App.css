@@ -1,0 +1,27 @@
+.roboto-slab {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.logostrip {
+  width: 100vw;
+  background-image: linear-gradient(to right, #5E1B89, #F4512C);
+  font-family: 'Roboto Slab';
+  font-size: 3em;
+  color: #F8FFFE;
+}
+
+.list {
+  background-color: #F4512C;
+  border: 3px solid #5E1B89;
+  border-radius: 10px;
+}
+
+img {
+  object-fit: scale-down;
+  margin-left: 0.3em;
+  margin-right: 0.3em;
+  margin-bottom: 0.3em;
+}
