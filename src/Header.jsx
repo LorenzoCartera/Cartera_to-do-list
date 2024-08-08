@@ -1,5 +1,5 @@
 import logo_white from '../src/assets/logo_white.png'
-
+//header
 function Header(){
     return(
         <div className='logostrip'><p>
