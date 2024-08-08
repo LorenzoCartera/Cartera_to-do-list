@@ -15,7 +15,7 @@
 }
 
 .nameTrue {
-    color: #5E1B89;
+    color: #9D71BC;
     font-size: 2.5em;
     font-family: 'Roboto Slab';
     text-decoration-line: line-through;
@@ -23,6 +23,7 @@
 
 .p {
     font-family: 'Lato';
+    color: #3b3b3b;
 }
 
 .ago {
