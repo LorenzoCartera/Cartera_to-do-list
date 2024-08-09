@@ -194,11 +194,11 @@ function AddModal() {
               <Form.Label>Task name</Form.Label>
               <Form.Control
                 type="text"
-                placeholder="Do laundry"
                 autoFocus
                 value={task.name}
                 onChange={handleInput}
                 name="name"
+                style={{color: "#707070"}}
               />
             </Form.Group>
 
@@ -209,6 +209,7 @@ function AddModal() {
                 value={task.dueDate}
                 onChange={handleInput}
                 name="dueDate"
+                style={{color: "#707070"}}
               />
             </Form.Group>
 
@@ -219,6 +220,7 @@ function AddModal() {
                 value={task.dueTime}
                 onChange={handleInput}
                 name="dueTime"
+                style={{color: "#707070"}}
               />
             </Form.Group>
 
